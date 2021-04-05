@@ -70,10 +70,6 @@ Rating=Rating[:5000]
     pip install pymysql
 ```
 
-
-## 联系作者：
-QQ：470581985
-
 ## 项目源码介绍
 
 图书推荐系统
@@ -130,7 +126,5 @@ Example：
     + 离线计算好的推荐表的信息。使用到了协同过滤算法
     + 之后会做成按天更新
     + 目前的项目是实时推荐的，使用sql语句实现的
-    
-##  wx赞赏码：如果对你有用或者你需要帮你改进此项目
-<img src="https://img-blog.csdnimg.cn/20190124140409316.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxNjY0ODQ1,size_16,color_FFFFFF,t_70" width="300" height="350">
+
 
